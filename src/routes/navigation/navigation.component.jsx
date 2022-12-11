@@ -10,8 +10,14 @@ const Navigation = () => {
                 <Link className='logo-container' to='/'>
                     <img src={crown} />
                 </Link>
-                <Link className='nav-links-container' to='/shop'>
+                <Link className='nav-links-container' to='/Shop'>
                     <div>Shop</div>
+                </Link>
+                <Link className='nav-links-container' to='/Contact'>
+                    <div>Contact</div>
+                </Link>
+                <Link className='nav-links-container' to='/sign-in'>
+                    <div>Sign-in</div>
                 </Link>
             </div>
             <Outlet />
