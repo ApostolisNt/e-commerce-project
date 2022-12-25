@@ -3374,6 +3374,11 @@
   dependencies:
     "punycode" "^2.1.0"
 
+"use-context@^0.0.1":
+  "integrity" "sha512-E3UlFYcr4IFCEs8RfoHCV9TD+PWJrray212or/u0646wfUELO53lWv/0qA6rQY6hDk8/L0Gv7+UOGKjJxYzApQ=="
+  "resolved" "https://registry.npmjs.org/use-context/-/use-context-0.0.1.tgz"
+  "version" "0.0.1"
+
 "util-deprecate@^1.0.2":
   "integrity" "sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw=="
   "resolved" "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz"
