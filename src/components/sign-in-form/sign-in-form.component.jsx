@@ -77,7 +77,7 @@ const SingInForm = () => {
         />
         <span className="text-red-600 mb-8">{passwordIncorrect}</span>
         <div className="flex justify-evenly">
-          <Button type="submit">Sign up</Button>
+          <Button type="submit">Sign in</Button>
           <Button
             buttonType={"google"}
             type="button"
