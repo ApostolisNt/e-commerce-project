@@ -69,6 +69,7 @@ const SingInForm = () => {
         <FormInput
           label="Password"
           type="password"
+          autoComplete="on"
           required
           onChange={handleChange}
           name="password"
