@@ -24,3 +24,9 @@ export const ItemDetails = styled.div`
     font-size: 16px;
   }
 `;
+
+export const RemoveButton = styled.div`
+  padding-right: 20px;
+  cursor: pointer;
+  align-self: center;
+`;
